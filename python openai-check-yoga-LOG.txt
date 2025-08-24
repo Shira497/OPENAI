@@ -1,0 +1,86 @@
+C:\Users\שירה>python openai-check-yoga-pose.py
+dataset/adho mukha svanasana/1. 1.png: This yoga pose is the Downward-Facing Dog.
+dataset/adho mukha svanasana/1. 5-benefits-of-downward-facing-dog-pose.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/10. screen-shot-2017-09-15-at-17.00.06-1024x585.png: The pose in the image is a variation of the Downward-Facing Dog.
+dataset/adho mukha svanasana/11. yoga_anatomy_using_muscle_awareness_to_lower_your_heels_in_downward_facing_dog_pose.png: Downward-Facing Dog.
+dataset/adho mukha svanasana/12. 66a62b8c606fd88e0401b5af0a7cbca7.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/12. downward-facing-dog-pose.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/13. downward-facing-dog-800x490.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/14. downward-dog-pose-as-done-by-a-dog.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/14. untitled_design_33.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/16. one-leg-downward-facing-dog-yoga-pose.png: This appears to be a variation of the Downward-Facing Dog pose, known as "Three-Legged Downward Dog."
+dataset/adho mukha svanasana/17. screen_shot_2014-03-20_at_2.05.15_pm.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/18. screenshot_20180504-085613-450x800.png: This yoga pose is a variation of Downward-Facing Dog.
+dataset/adho mukha svanasana/19. 1-adho-mukha-svanasana.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/2. screen-shot-2017-09-15-at-17.00.06-1024x585.png: This pose is similar to the Downward-Facing Dog, but with one leg raised. However, it does not match exactly with any of the listed options, so I'll classify it as "Unknown."
+dataset/adho mukha svanasana/21. adho-mukha-svanasana.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/22. photo-17-05-2015-18-28-30.png: This pose is the Downward-Facing Dog.
+dataset/adho mukha svanasana/23. george7.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/24. dsc_1007-resized-600.jpg: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/25. 11.png: This image depicts the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/28. screen-shot-2017-10-30-at-2.24.06-pm.png: The pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/29. adho-mukha-svanasana.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/3. downward-facing-dog-pose-567x567.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/32. 1473984207.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/32. down_dog_orthocarolina_winston.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/33. screenshot_2015-02-10-12-04-46.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/34. adho-mukha-svanasana.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/35. 068155f5a8d0310c34a6ed06cb089294.png: This pose is the Downward-Facing Dog.
+dataset/adho mukha svanasana/36. downward-facing-dog-800x490.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/39. screen-shot-2019-01-02-at-5.02.56-pm.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/39. untitled10.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/4. adho-mukha-svanasana-downward-dog-pose.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/4. downward-facing-dog.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/42. img_1199.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/43. down_dog.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/43. downward-facing-dog-reboot-1.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/45. 3_alignment_instructions_to_reconsider.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/46. yoga7b-754x394.png: This yoga pose is Downward-Facing Dog.
+dataset/adho mukha svanasana/47. downward-facing-dog-520x400.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/47. downward-facing-dog.png: This image shows the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/49. adho-mukha-svanasana-768x429.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/5. f3949d27c6de7f86a293f207a49e1cf4.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/50. blog-14-size.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/51. screenshot_20180409-154224.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/54. bc56388aad161f17b93f5fb21faeddca.png: The pose in the image is "Downward-Facing Dog," but with one leg raised, it is specifically a variation known as "Three-Legged Downward-Facing Dog." However, since this specific variation is not listed and it's closest to Downward-Facing Dog, I'll classify it as "Unknown."
+dataset/adho mukha svanasana/55. screen+shot+2017-12-13+at+9.12.42+am.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/56. dd2.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/59. 1511793208433233.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/60. adho-mukha-svanasana-downward-dog.png: The yoga pose depicted in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/62. dog-base.png: This pose is the Downward-Facing Dog.
+dataset/adho mukha svanasana/63. downward-facing-dog-yoga-pose-2.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/67. downward-facing-dog-adho-mukha-svanasana.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/7. 23-downward-facing-dog.png: The yoga pose in the image is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/7. downward-facing-dog-yoga-pose-adjustment-adho-mukha-svanasana.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/72. ff-4.png: This yoga pose is the Downward-Facing Dog.
+dataset/adho mukha svanasana/72.png: The pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/73. d0c097f5131a546a004be3f0045aa074.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/76. tri-pada-adho-mukha-svanasana1.png: The yoga pose in the image is closest to Downward-Facing Dog with a leg lift, but since that's not a direct match to the listed options, it should be classified as "Unknown."
+dataset/adho mukha svanasana/8. benefits-of-downward-dog_orig.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/80. down-dog-in-stowe-vt-blog-1.png: Downward-Facing Dog
+dataset/adho mukha svanasana/81. untitled1.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/83. downward-dog_final_rev2.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/85. adhomukhasavanasana-buildup.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/88. adho-mukha-svanasana-pies-z-glowacca8-w-dol-840x400.png: The yoga pose in this image is Downward-Facing Dog.
+dataset/adho mukha svanasana/89. downward-facing-dog-yoga-pose.png: This image shows the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/91. screen-shot-2016-04-11-at-2.41.39-pm.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/92. down-dog.png: The yoga pose in the image is Downward-Facing Dog.
+dataset/adho mukha svanasana/94. dog.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha svanasana/95. downward-facing-dog-pose.png: This is the Downward-Facing Dog pose.
+dataset/adho mukha svanasana/95. screen-shot-2018-06-03-at-10-46-24-pm.png: The yoga pose in the image is the Downward-Facing Dog.
+dataset/adho mukha vriksasana/0-0.png: The pose in the image is a handstand. It does not match any of the given options, so it is classified as "Unknown."
+dataset/adho mukha vriksasana/1-0.png: The pose in the image is a handstand, which does not match any of the listed options. Therefore, it is classified as "Unknown."
+dataset/adho mukha vriksasana/16-0.png: The pose in the image is "Unknown."
+dataset/adho mukha vriksasana/17-0.png: Unknown
+dataset/adho mukha vriksasana/19-0.png: Unknown.
+dataset/adho mukha vriksasana/20-0.png: Unknown.
+dataset/adho mukha vriksasana/25-0.png: The pose in the image is "Unknown" based on the given options.
+dataset/adho mukha vriksasana/26-0.png: The pose in the image is "Unknown."
+dataset/adho mukha vriksasana/29-0.png: Unknown
+dataset/adho mukha vriksasana/3-0.png: This yoga pose does not match any of the listed poses. It should be classified as "Unknown."
+dataset/adho mukha vriksasana/30-0.png: The pose in the image is a handstand, which is not listed. Therefore, it's classified as "Unknown."
+dataset/adho mukha vriksasana/31-0.png: The pose in the image is "Unknown."
+dataset/adho mukha vriksasana/32-0.png: This pose does not match any of the provided options. It is an inverted handstand variation using the wall for support. Therefore, the classification is "Unknown."
+dataset/adho mukha vriksasana/33-0.png: This is a handstand, which doesn't correspond to any of the listed yoga poses. Therefore, it is classified as "Unknown."
+dataset/adho mukha vriksasana/35-2.png: The pose in the image is a handstand, which doesn't match any of the listed options. Therefore, it should be classified as "Unknown".
+Traceback (most recent call last):
